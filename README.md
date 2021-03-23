@@ -17,13 +17,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist desmondjim/yii2-dynamicform "*"
+php composer.phar require --prefer-dist desmondjim/yii2-dynamicform "dev-master"
 ```
 
 or add
 
 ```
-"desmondjim/yii2-dynamicform": "*"
+"desmondjim/yii2-dynamicform": "dev-master"
 ```
 
 to the require section of your `composer.json` file.
