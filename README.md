@@ -4,6 +4,7 @@
 [![Software License](http://img.shields.io/badge/license-BSD3-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Total Downloads](https://img.shields.io/packagist/dt/desmondjim/yii2-dynamicform.svg?style=flat-square)](https://packagist.org/packages/wbraganca/yii2-dynamicform)
 
+Виджет с исправлениями ошибок создания новых элементов.
 
 It is widget to yii2 framework to clone form elements in a nested manner, maintaining accessibility.
 ![yii2-dynamicform](https://wbraganca.com/img/yii2-dynamicform/sample.jpg)
